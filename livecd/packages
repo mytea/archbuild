@@ -137,3 +137,6 @@ calamares
 liri-calamares-branding-git
 os-prober
 squashfs-tools
+
+# enabling Phablet
+snapd

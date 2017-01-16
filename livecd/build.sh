@@ -2,8 +2,8 @@
 
 set -e -u
 
-iso_name=lirios
-iso_label="LIRIOS_$(date +%Y%m)"
+iso_name=ZYX_liri_phablet
+iso_label="preview_$(date +%Y%m)"
 iso_version=$(date +%Y.%m.%d)
 install_dir=liri
 work_dir=work

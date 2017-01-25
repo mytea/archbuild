@@ -1,0 +1,18 @@
+ TO DO list
+ 
+ *) add phablet snaps:
+  dealer-app / ofono
+  adressbook-app 
+  camera-app
+  ...
+  
+  References: 
+  https://launchpad.net/~ci-train-ppa-service/+archive/ubuntu/stable-phone-overlay 
+  
+  *) add android drivers in a lxc and add libhybris configuration 
+  References:
+https://community.kde.org/Plasma/Mobile/CyanogenModBase  
+https://wiki.merproject.org/wiki/Adaptations/libhybris
+
+*) Test Liri-shell on small touch  (5.5'')
+
